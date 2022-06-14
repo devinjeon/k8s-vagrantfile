@@ -1,4 +1,4 @@
-# Vagrant-k8s
+# kubernetes-vagrantfile
 
 Includes Vagrantfile and scripts for provisioning Kubernetes
 
